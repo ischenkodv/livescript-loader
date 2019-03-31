@@ -7,7 +7,7 @@
 		"build": "lsc -cb ./index.ls"
 	},
 	"dependencies": {
-		"livescript": "^1.4.0",
+		"livescript": "https://github.com/ischenkodv/LiveScript.git#1.6.1",
 		"loader-utils": "0.2.x"
 	},
 	"repository": {
